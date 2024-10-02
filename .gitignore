@@ -5,7 +5,7 @@ dist
 tmp
 out-tsc
 bazel-out
-*.Zone.Identifier
+**/*Zone.Identifier
 
 # Node
 node_modules
